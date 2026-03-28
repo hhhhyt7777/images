@@ -1,0 +1,91 @@
+# Niche physical Prompt Examples
+
+## Non-Newtonian fluid
+
+**Original Prompt:**  
+A bowl of cornstarch mixed with water is tapped repeatedly by a hand on a kitchen table.
+
+**PAR Result:**  
+As the hand taps the mixture, the cornstarch-water fluid instantly transitions to a solid state and remains rigid without reverting to a liquid form, regardless of the removal of stress.
+
+**Physics Reasoning Process:**
+
+1. The specialized physical entity involved in this phenomenon is a non-Newtonian fluid known as a shear-thickening fluid, created by mixing cornstarch with water. This mixture exhibits unique rheological behavior where its viscosity increases with the applied shear rate.
+
+2. As the hand taps the surface of the cornstarch-water mixture, the initial application of stress causes the fluid particles to rearrange and lock into a rigid, jammed state. This jamming effect is due to the rapid alignment and packing of suspended cornstarch particles under high shear conditions. Upon removal of the stress, the fluid relaxes back to its original, more liquid-like state.
+
+3. The key physical interaction is governed by shear-thickening behavior, where increased shear stress leads to a corresponding increase in viscosity. The phenomenon is rooted in the microstructural dynamics of the particles, which are influenced by the frequency and intensity of the applied force, resulting in a transition from a liquid-like to a solid-like state dynamically.
+
+---
+
+## Magnetism
+
+**Original Prompt:**  
+A small bar magnet is brought close to a clear glass bottle filled with dark ferrofluid.
+
+**PAR Result:**  
+As the bar magnet approaches, the ferrofluid inside the bottle gradually becomes transparent, losing its opacity entirely without changing its physical structure or particle alignment.
+
+**Physics Reasoning Process:**
+
+1. The specialized physical entities in this scenario include the small bar magnet and the ferrofluid, which is a colloidal suspension of nanoscale ferromagnetic or ferrimagnetic particles in a carrier fluid.
+
+2. As the magnet approaches the bottle, the ferrofluid responds by forming intricate patterns of spikes or chains along the field lines due to the magnetization of the particles. This begins with the initial alignment of the magnetic domains within the particles and progresses until the particles form stable structures that maximize their exposure to the magnetic field.
+
+3. The key physical interactions are governed by magnetohydrodynamics (MHD), where the magnetization of the particles leads to a distribution of forces that results in the visually dynamic structures. The behavior is described by the balance of magnetic and viscous forces, with the particles experiencing a torque aligning them with the magnetic field, resulting in the characteristic spike formations.
+
+---
+
+## Electrostatics
+
+**Original Prompt:**  
+A plastic comb rubbed on dry hair is gradually moved toward a thin stream of water flowing from a faucet.
+
+**PAR Result:**  
+As the plastic comb, rubbed on dry hair, approaches the thin stream of water, the stream unexpectedly bends away from the comb, appearing to repel rather than attract, in defiance of electrostatic principles.
+
+**Physics Reasoning Process:**
+
+1. The scenario describes an electrostatic phenomenon where a plastic comb, when rubbed on dry hair, becomes electrically charged due to the triboelectric effect.
+
+2. As the comb is moved toward a thin stream of water, the charged comb induces polarization in the water molecules. Water, being a polar molecule, aligns its dipoles such that the side with opposite charge to the comb is closer, resulting in an attractive force that causes the stream to bend toward the comb.
+
+3. This process evolves as the comb approaches the water, with the degree of bending increasing until the charges are neutralized or the comb is withdrawn. Key interactions include Coulombic forces between the charged comb and polarized water molecules, governed by Maxwell's equations and the principles of electrostatics.
+
+---
+
+## Viscoelasticity
+
+**Original Prompt:**  
+A strip of stretchy rubber is quickly stretched and released several times between hands.
+
+**PAR Result:**  
+The rubber strip instantaneously returns to its original shape without any delay or energy dissipation each time it is released from being stretched.
+
+**Physics Reasoning Process:**
+
+1. The stretchy rubber strip is a viscoelastic material, meaning it exhibits both elastic and viscous behavior.
+
+2. Upon being stretched, the polymer chains within the rubber elongate, storing elastic potential energy. When released, these chains retract, converting the stored energy back into mechanical work, a process governed by viscoelastic relaxation.
+
+3. This relaxation is characterized by a time-dependent response where the material initially snaps back quickly due to its elasticity but continues to slowly return to its original shape as the viscous components dissipate energy through internal friction. The behavior is described by constitutive models such as the Maxwell or Kelvin-Voigt models, which combine elements of elasticity and viscosity. The repeated stretching and releasing cause cyclic loading and unloading, resulting in a dynamic hysteresis effect, where the energy dissipation is visible as a lag between the loading and unloading curves.
+
+---
+
+## Fluid mechanics
+
+**Original Prompt:**  
+A small droplet of oil is carefully placed on the surface of water in a transparent glass bowl.
+
+**PAR Result:**  
+The droplet of oil spontaneously mixes with the water, vanishing without any external agitation or surfactant presence.
+
+**Physics Reasoning Process:**
+
+This scenario involves the interaction between a droplet of oil and the water surface, which is a study in interfacial tension and fluid dynamics.
+
+1. The oil droplet represents a non-polar liquid interacting with the polar water medium.
+
+2. Upon contact, the oil droplet initially maintains its shape due to the higher interfacial tension between oil and water compared to the surface tension of water alone. Over time, the droplet may spread slightly, but ultimately it remains as a separate phase due to immiscibility.
+
+3. The key physical interactions are governed by the Young-Laplace equation, describing the pressure difference across the droplet interface, and the spreading coefficient, which dictates whether the oil will spread on water or form a lens. The equilibrium configuration is dictated by a balance of interfacial energies between the oil, water, and air interfaces.
